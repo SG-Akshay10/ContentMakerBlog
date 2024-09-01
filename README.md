@@ -99,5 +99,7 @@ python pdf_to_video_narrator.py
 
 ![Screenshot from 2024-09-01 21-24-18](https://github.com/user-attachments/assets/9091d65e-e148-4104-82a3-93ee76284135)
 
+## Click here to check the [How to use tutorials](https://drive.google.com/file/d/1Ku-jjZBnaLOWhl1A_k-FSQlvN76M1cYa/view?usp=sharing)
+## Click here to check the [Output](https://drive.google.com/file/d/10_PwiMDn5_rGblZR_SYbmHEamEubj3v0/view?usp=sharing)
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
