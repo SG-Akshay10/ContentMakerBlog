@@ -1,0 +1,9 @@
+PyMuPDF
+numpy==1.23.5
+pandas
+gTTS
+openai-whisper
+pydub
+scikit-video
+SoundFile
+gradio
