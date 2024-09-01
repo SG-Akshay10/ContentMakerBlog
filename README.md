@@ -93,4 +93,11 @@ python pdf_to_video_narrator.py
 
 5. Wait for the processing to complete and download your video.
 
+## Working Screenshot and Video
+
+![Screenshot from 2024-09-01 21-23-47](https://github.com/user-attachments/assets/2828cb04-389a-48c4-be1b-1fb034208a14)
+
+![Screenshot from 2024-09-01 21-24-18](https://github.com/user-attachments/assets/9091d65e-e148-4104-82a3-93ee76284135)
+
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
